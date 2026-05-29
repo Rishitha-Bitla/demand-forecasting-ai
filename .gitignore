@@ -3,3 +3,10 @@ __pycache__/
 *.pkl
 mlruns/
 .DS_Store
+
+
+vector_db/
+mlruns/
+mlflow.db
+notebooks/mlflow.db
+models/xgb_demand_model.pkl
