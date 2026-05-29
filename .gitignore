@@ -2,11 +2,10 @@
 __pycache__/
 *.pkl
 mlruns/
-.DS_Store
-
-
-vector_db/
-mlruns/
 mlflow.db
 notebooks/mlflow.db
-models/xgb_demand_model.pkl
+vector_db/
+data/sbd_sales_data.csv
+data/xgboost_forecasts.csv
+data/forecast_output.csv
+.DS_Store
