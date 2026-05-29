@@ -1,0 +1,9 @@
+week_of_year
+year
+is_promo
+demand_lag1
+demand_lag2
+demand_lag4
+rolling_mean_4
+rolling_mean_8
+rolling_std_4
